@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0d00801a.css",
+    "main.js": "./static/js/main.6f19b70f.js",
+    "static/js/787.b286da99.chunk.js": "./static/js/787.b286da99.chunk.js",
+    "static/media/Group 848.png": "./static/media/Group 848.7a13ae055a9c23f340cc.png",
+    "static/media/Rectangle 3.png": "./static/media/Rectangle 3.1e3a8d94f10e33b0255a.png",
+    "service-worker.js": "./service-worker.js",
+    "static/media/mission img.png": "./static/media/mission img.1066256b2b8841fae3c7.png",
+    "static/media/head_txt.png": "./static/media/head_txt.76934ebd3549bb60adc8.png",
+    "static/media/Rectangle 166.png": "./static/media/Rectangle 166.dbe90d21ff2fc917e3df.png",
+    "static/media/sailing.png": "./static/media/sailing.5abd27069f208354c248.png",
+    "static/media/Instagram - Negative.svg": "./static/media/Instagram - Negative.b37fff70341e009a49f05543e8c690f5.svg",
+    "static/media/Twitter - Negative.svg": "./static/media/Twitter - Negative.8579036bb94c2faa92a9997a29d97ed0.svg",
+    "index.html": "./index.html",
+    "static/media/LinkedIn - Negative.svg": "./static/media/LinkedIn - Negative.922d77609c1adb40b29389864da4a530.svg",
+    "static/media/Facebook - Negative.svg": "./static/media/Facebook - Negative.2d39a1f574e99bf62691867b2e718244.svg",
+    "static/media/Polygon 2.svg": "./static/media/Polygon 2.54f8f8362a2ecec544d9df0816dec04c.svg",
+    "static/media/Polygon 1.svg": "./static/media/Polygon 1.5e4bbf065882fd1b88c1bdf3557194eb.svg",
+    "main.0d00801a.css.map": "./static/css/main.0d00801a.css.map",
+    "main.6f19b70f.js.map": "./static/js/main.6f19b70f.js.map",
+    "787.b286da99.chunk.js.map": "./static/js/787.b286da99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d00801a.css",
+    "static/js/main.6f19b70f.js"
+  ]
+}
